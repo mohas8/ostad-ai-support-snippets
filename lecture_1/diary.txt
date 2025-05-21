@@ -1,0 +1,5 @@
+I am learning Python programming.
+I am learning how to use APIs.
+I am learning how to use requests library.
+I am learning how to use JSON data.
+I am learning how to use Python for data analysis.
