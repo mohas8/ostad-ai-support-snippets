@@ -13,7 +13,7 @@
 ---
 
 ### 🙋‍♂️ Maintained by
-**Md Mobashir Hasan**  
+**[Md Mobashir Hasan](https://www.linkedin.com/in/mohas8/).** 
 Teaching Assistant, [AI Engineering Bootcamp for Programmers](https://ostad.app/course/ai-engineering).
 
-📅 Monday & Wednesday | 💬 Feel free to reach out on Discord or class group.
+📅 Monday & Wednesday | 💬 Feel free to reach out on WhatsApp or the bootcamp group.
