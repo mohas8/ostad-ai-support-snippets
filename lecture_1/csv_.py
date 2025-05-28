@@ -20,7 +20,7 @@ with open('people.csv', 'w', newline='') as csvfile:
 import pandas as pd
 df = pd.read_csv('people.csv')
 
-print(df.tail(2))
+print(df)
 # print(df[["Name", "City"]])
 # print('\n')
 #

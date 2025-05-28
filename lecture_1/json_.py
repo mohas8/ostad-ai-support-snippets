@@ -12,4 +12,4 @@ print(data)
 #save to output.json
 
 with open('output.json', 'w') as f:
-    json.dump(json_str, f, indent=4)
+    json.dump(json_str, f, indent=10)
